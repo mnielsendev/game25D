@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/_Core/Scenes/Test Areas/TEST_Tilted25D.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
